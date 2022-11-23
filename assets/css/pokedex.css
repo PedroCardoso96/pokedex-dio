@@ -139,9 +139,10 @@
     align-items: center;
     width: 100%;
     padding: 1rem;
+    cursor: pointer;
     
 }
-.pagination button{
+button{
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
@@ -149,5 +150,8 @@
     padding: .25rem .5rem;
     font-size: .625rem;
     margin: .25rem 0;
+    cursor: pointer;
 
 }
+
+
